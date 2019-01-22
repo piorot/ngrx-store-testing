@@ -1,0 +1,3 @@
+<div class="thread-description" *ngIf="((currentCategory$ | async) && (threadTitle$ | async))">
+  {{threadTitle$ | async}} from {{(currentCategory$ | async).name}}
+</div>

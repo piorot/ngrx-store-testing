@@ -1,0 +1,4 @@
+<div *ngIf="user$ | async as user" class="user-info">
+  <p class="user-name">Name : {{user.name}}</p>
+  <p class="user-since">On forum since : {{user.registrationDate || 'user is not yet registered'}}</p>
+</div>
