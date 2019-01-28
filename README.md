@@ -1,3 +1,5 @@
+[![build status](https://api.travis-ci.org/piorot/ngrx-store-testing.svg)](http://travis-ci.org/piorot/ngrx-store-testing)
+
 # JasmineNgrxStoreComponentTesting
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
