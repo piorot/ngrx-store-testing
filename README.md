@@ -1,7 +1,6 @@
 [![build status](https://api.travis-ci.org/piorot/ngrx-store-testing.svg)](http://travis-ci.org/piorot/ngrx-store-testing)
 
-<a href="https://medium.com/@rotynski/how-to-test-ngrx-store-dependent-components-in-2019-cb1be3cdd6dd" target="_blank">**Medium Article**</a>https://medium.com/@rotynski/how-to-test-ngrx-store-dependent-components-in-2019-cb1be3cdd6dd
-
+<a href="https://medium.com/@rotynski/how-to-test-ngrx-store-dependent-components-in-2019-cb1be3cdd6dd" target="_blank">**Link to medium Article**</a>
 # How to test ngrx/store dependent components in Angular 7 applications.
 
 > The following text will discuss different approaches to testing the angular components that use ngrx/store. Using Jasmine’s withArgs() method is available for jasmine version 3.0 users.
